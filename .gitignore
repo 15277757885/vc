@@ -31,5 +31,7 @@
 *.out
 *.app
 *.ncb
-	*.db
-	*.sdf
+*.db
+*.sdf
+/**/[Dd]ebug
+/**/ipch/*
